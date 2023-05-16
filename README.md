@@ -10,7 +10,7 @@ This script is probably not gonna receive a lot of updates, fixes or additions. 
 ⭐ **Will you add this to your favorite phone or laptop script?** Nah.\
 ⭐ **Will you support lj-inventory?** Nah.\
 ⭐ **Will you provide support?** Maybe. Probably nah.\
-⭐ **Why does this not work with my handling files?** Sounds like a you problem. Make better handling files. 
+⭐ **Why does this not work with my handling files?** Sounds like a you problem. Make better handling files.\
 ⭐ **Can you make this for ESX?** No. The script is like 100 lines long. Figure it out yourself ✌ 
 
 # Preview 📽
