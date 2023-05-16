@@ -1,10 +1,9 @@
 # Drift Chip 
 
 ### **See the script in action on [Sundown RP](https://discord.gg/CZNh8kcSGK) 🌆**
-A QB based script for toggling drift mode on and off. Uses an item to allow toggling.
-The script has two items: Drift Chip and Drift Chip Box. When you use the box it turns into a chip. This is cause for OX Inv we have a degrade on it, so it has a lifespan of ~2 weeks. Mechanics can craft the boxes and keep them stocked with this method etc. If you don't want to use the box just add the chip to crafting or whatever. Figure it out.
+A QB based script for toggling drift mode on and off. Uses an item to allow toggling. The script has two items: Drift Chip and Drift Chip Box. When you use the box it turns into a chip. This is cause for OX Inv we have a degrade on it, so it has a lifespan of ~2 weeks. Mechanics can craft the boxes and keep them stocked with this method etc. If you don't want to use the box just add the chip to crafting or whatever. Figure it out.
 
-This script is probably not gonna recieve a lot of updates, fixes or additons. If you have issues or stuff you want you can figure it out yourself ✌
+This script is probably not gonna receive a lot of updates, fixes or additions. If you have issues or stuff you want you can figure it out yourself ✌
 
 ⭐ **Is this realistic?** Nah. \
 ⭐ **Will you add x or y?** Nah. \
