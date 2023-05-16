@@ -15,7 +15,7 @@ This script is probably not gonna recieve a lot of updates, fixes or additons. I
 ⭐ **Can you make this for ESX?** No. The script is like 100 lines long. Figure it out yourself ✌ 
 
 # Preview 📽
-[![YOUTUBE VIDEO](http://img.youtube.com/vi/n4FP3FsSSQI/0.jpg)](https://youtu.be/n4FP3FsSSQI)
+[![YOUTUBE VIDEO](http://img.youtube.com/vi/aAG3tMogf04/0.jpg)](https://youtu.be/aAG3tMogf04)
 
 # Developed by Coffeelot and Wuggie
 [More scripts by us](https://github.com/stars/Coffeelot/lists/cw-scripts)  👈
