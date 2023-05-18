@@ -7,7 +7,7 @@ local function removeItem(item, src)
       exports.ox_inventory:RemoveItem(src, item, 1, nil)
       TriggerClientEvent('inventory:client:ItemBox', src, exports.ox_inventory:Items()[item], "remove")
    else
-      Player.Functions.RemoveItem(item.name, 1)
+      Player.Functions.RemoveItem(item, 1)
       TriggerClientEvent('inventory:client:ItemBox', src, QBCore.Shared.Items[item], "remove")
    end
 end
