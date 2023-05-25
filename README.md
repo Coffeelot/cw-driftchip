@@ -13,6 +13,8 @@ This script is probably not gonna receive a lot of updates, fixes or additions. 
 ⭐ **Why does this not work with my handling files?** Sounds like a you problem. Make better handling files.\
 ⭐ **Can you make this for ESX?** No. The script is like 100 lines long. Figure it out yourself ✌ 
 
+## 🐂 [ox_core version](https://github.com/ayatollah/aya-driftchip) Kudos to Ayabolli#8415
+
 # Preview 📽
 [![YOUTUBE VIDEO](http://img.youtube.com/vi/aAG3tMogf04/0.jpg)](https://youtu.be/aAG3tMogf04)
 
