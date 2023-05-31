@@ -24,6 +24,12 @@ local function addItem(item, src)
 end
 
 QBCore.Functions.CreateUseableItem(Config.DriftChipItem, function(source, item)
+   if Config.UseOxInv then
+      if item.metadata.durability == 0 then
+         TriggerClientEvent('QBCore:Notify', source, 'The Drift Chip is out of juice', 'error')
+         return
+      end
+   end
    local Player = GetPlayerPed(source)
    local vehicle = GetVehiclePedIsIn(Player, false)
    if vehicle then
