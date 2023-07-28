@@ -50,7 +50,7 @@ RegisterNetEvent('cw-driftchip:client:openbox', function()
 	end, 'fas fa-box-open')
 end)
 
-RegisterNetEvent('cw-plateswap:client:toggleDebug', function(debug)
+RegisterNetEvent('cw-driftchip:client:toggleDebug', function(debug)
    print('Setting debug to', debug)
    useDebug = debug
 end)
