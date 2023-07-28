@@ -5,6 +5,8 @@ A QB based script for toggling drift mode on and off. Uses an item to allow togg
 
 This script is probably not gonna receive a lot of updates, fixes or additions. If you have issues or stuff you want you can figure it out yourself ✌
 
+### 🔰 [Alternative drift script](https://github.com/Coffeelot/cw-drifttoggle) 🔰
+
 ⭐ **Is this realistic?** Nah. \
 ⭐ **Will you add x or y?** Nah. \
 ⭐ **Will you add this to your favorite phone or laptop script?** Nah.\
